@@ -28,6 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Mark Dernie commands  
 
+npm i verdaccio --save-dev
+
 .npmrc registry="http://localhost:4873"
+
+verdaccio
 
 npm uninstall lib1; ng add lib1; ng g lib1:lib1
